@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hey there! I'm Prashant Punia
 
-<!--
-**ItsPrashantPunia/ItsPrashantPunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🏡 From: Haryana, India 🇮🇳
+🎂 Born: June 14, 2006 (18 y/o)
+🎥 Passionate about video editing & coding
+💻 Exploring web development & creative design
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎬 Video Editing (Adobe Premiere, After Effects)
+💻 Coding (HTML, CSS, JavaScript, Python)
+🎨 UI/UX Design & Motion Graphics
+📌 Currently Learning
+
+🌐 Advanced Web Animations
+📲 Mobile App Development
+🤖 AI-based Editing Tools
+📫 Connect with Me
+
+🌟 Instagram: @thejaatbatman
+🚀 "Code, Create, Inspire!"!--
+
