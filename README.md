@@ -18,6 +18,6 @@
 🤖 AI-based Editing Tools
 📫 Connect with Me
 
-🌟 Instagram: @thejaatbatman
+🌟 Instagram: @prashantpuniaa
 🚀 "Code, Create, Inspire!"!--
 
